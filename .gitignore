@@ -9,6 +9,9 @@
 !.config/borders/
 !.config/borders/*
 
+# aerospace
+!.aerospace.toml
+
 # readme
 !README.md
 
