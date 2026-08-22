@@ -1,0 +1,16 @@
+# Ignore everything by default.
+*
+
+# setup script
+!setup.sh
+
+# config files
+!.config/
+!.config/borders/
+!.config/borders/*
+
+# readme
+!README.md
+
+# gitignore
+!.gitignore
