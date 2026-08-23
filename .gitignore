@@ -12,6 +12,9 @@
 # aerospace
 !.aerospace.toml
 
+# zsh
+!.zshrc
+
 # readme
 !README.md
 
